@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5ebcdfb-dd88-4831-bfed-cd38c3bd08ac" name="Default Changelist" comment="" />
+    <list default="true" id="a5ebcdfb-dd88-4831-bfed-cd38c3bd08ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-full-width.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-full-width.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking-appointments.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking-appointments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features-404.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features-faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-faqs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features-pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features-shortcodes.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-shortcodes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features-typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-grid-2cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-2cols.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-grid-3cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-3cols.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-grid-4cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-4cols.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-grid-nomargins.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-nomargins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-modern.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-modern.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/room-prices.html" beforeDir="false" afterPath="$PROJECT_DIR$/book-room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rooms/coming-soon.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/coming-soon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rooms/escape-from-ny.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/escape-from-ny.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rooms/lost-temple.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/lost-temple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rooms/tournament.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/tournament.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,100 +43,91 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/index.html">
+        <entry file="file://$PROJECT_DIR$/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6210">
-              <caret line="270" column="87" selection-start-line="270" selection-start-column="87" selection-end-line="270" selection-end-column="87" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="6381">
+              <caret line="471" column="80" selection-start-line="471" selection-start-column="80" selection-end-line="471" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book-room.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="145" column="33" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="1624" column="1" selection-start-line="1624" selection-start-column="1" selection-end-line="1624" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/build/rooms/escape-from-ny.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="231" column="32" selection-start-line="231" selection-start-column="32" selection-end-line="232" selection-end-column="28" />
+            <state relative-caret-position="595">
+              <caret line="368" column="53" lean-forward="true" selection-start-line="367" selection-start-column="60" selection-end-line="368" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/rooms/lost-temple.html">
+        <entry file="file://$PROJECT_DIR$/room-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="476" column="8" lean-forward="true" selection-start-line="476" selection-start-column="8" selection-end-line="476" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rooms/escape-from-ny.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="129" column="8" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rooms/lost-temple.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="106" column="53" selection-start-line="106" selection-start-column="46" selection-end-line="106" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rooms/tournament.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="227">
-              <caret line="184" column="35" lean-forward="true" selection-start-line="184" selection-start-column="35" selection-end-line="184" selection-end-column="35" />
+              <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/rooms/tournament.html">
+        <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="185" column="69" selection-start-line="185" selection-start-column="69" selection-end-line="185" selection-end-column="69" />
+            <state relative-caret-position="322">
+              <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/rooms/coming-soon.html">
+        <entry file="file://$PROJECT_DIR$/rooms/coming-soon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="185" column="75" selection-start-line="185" selection-start-column="75" selection-end-line="185" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/assets/font-icon/ionicons/css/ionicons.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/features-pricing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="177" column="71" selection-start-line="177" selection-start-column="71" selection-end-line="177" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/page-contacts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/room-blocks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/build/room-prices.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="86" column="87" selection-start-line="86" selection-start-column="87" selection-end-line="86" selection-end-column="87" />
+            <state relative-caret-position="618">
+              <caret line="147" column="41" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -123,20 +143,28 @@
       <find>all onl</find>
       <find>home</find>
       <find>Copyright &amp;copy; 2020 Escapium &amp;nbsp;|&amp;nbsp; All Rights Reserved</find>
-      <find>featured</find>
       <find>Escapium - Escape Room Game HTML Template</find>
       <find>magic im</find>
       <find>ea</find>
+      <find>featured</find>
       <find>magic</find>
+      <find>main navi</find>
+      <find>pricing ta</find>
+      <find>secondary</find>
+      <find>booking</find>
+      <find>booking-form</find>
+      <find>order now!</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>Copyright &amp;copy; 2020 The Rabble &amp;nbsp;|&amp;nbsp; All Rights Reserved</replace>
       <replace>Rabble Rooms</replace>
+      <replace>Book Now!</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Orion Bloomfield\Dropbox (Brown)\Coding\rabblerooms-landing\HTML\build\assets</dir>
       <dir>C:\Users\Orion Bloomfield\Dropbox (Brown)\Coding\rabblerooms-landing\HTML\build</dir>
+      <dir>C:\Users\Orion Bloomfield\Dropbox (Brown)\Coding\rabblerooms-landing</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -157,6 +185,20 @@
         <option value="$PROJECT_DIR$/HTML/build/rooms/lost-temple.html" />
         <option value="$PROJECT_DIR$/HTML/build/rooms/tournament.html" />
         <option value="$PROJECT_DIR$/HTML/build/rooms/escape-from-ny.html" />
+        <option value="$PROJECT_DIR$/blog-full-width.html" />
+        <option value="$PROJECT_DIR$/page-about.html" />
+        <option value="$PROJECT_DIR$/features-pricing.html" />
+        <option value="$PROJECT_DIR$/page-contacts.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/rooms/lost-temple.html" />
+        <option value="$PROJECT_DIR$/room-prices.html" />
+        <option value="$PROJECT_DIR$/book-room.html" />
+        <option value="$PROJECT_DIR$/rooms/escape-from-ny.html" />
+        <option value="$PROJECT_DIR$/rooms/tournament.html" />
+        <option value="$PROJECT_DIR$/rooms/coming-soon.html" />
+        <option value="$PROJECT_DIR$/pricing.html" />
+        <option value="$PROJECT_DIR$/room-list.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -183,62 +225,7 @@
             <path>
               <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
               <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
               <item name="rooms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rabblerooms-landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rabblerooms-landing" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,12 +260,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598637819451</updated>
-      <workItem from="1598637825925" duration="3747000" />
+      <workItem from="1598637825925" duration="6354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3747000" />
+    <option name="totallyTimeSpent" value="6354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -292,7 +279,7 @@
       <window_info anchor="bottom" id="Terminal" weight="0.3293556" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3293556" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293556" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -454,8 +441,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/build/rooms/escape-from-ny.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="231" column="32" selection-start-line="231" selection-start-column="32" selection-end-line="232" selection-end-column="28" />
+        <state relative-caret-position="112">
+          <caret line="213" column="78" lean-forward="true" selection-start-line="213" selection-start-column="78" selection-end-line="213" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-full-width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features-typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="123" column="42" selection-start-line="70" selection-start-column="12" selection-end-line="123" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features-shortcodes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="1624" column="1" selection-start-line="1624" selection-start-column="1" selection-end-line="1624" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-room.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="145" column="33" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rooms/lost-temple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="106" column="53" selection-start-line="106" selection-start-column="46" selection-end-line="106" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rooms/escape-from-ny.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="129" column="8" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rooms/tournament.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rooms/coming-soon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="147" column="41" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6381">
+          <caret line="471" column="80" selection-start-line="471" selection-start-column="80" selection-end-line="471" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/room-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="476" column="8" lean-forward="true" selection-start-line="476" selection-start-column="8" selection-end-line="476" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="368" column="53" lean-forward="true" selection-start-line="367" selection-start-column="60" selection-end-line="368" selection-end-column="53" />
         </state>
       </provider>
     </entry>
