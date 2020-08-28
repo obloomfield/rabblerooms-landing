@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5ebcdfb-dd88-4831-bfed-cd38c3bd08ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-full-width.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-full-width.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booking-appointments.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking-appointments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booking-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking-login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booking-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features-404.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features-faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-faqs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features-pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features-shortcodes.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-shortcodes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features-typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/features-typography.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-blocks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-grid-2cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-2cols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-grid-3cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-3cols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-grid-4cols.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-4cols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-grid-nomargins.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-grid-nomargins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-modern.html" beforeDir="false" afterPath="$PROJECT_DIR$/room-modern.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room-prices.html" beforeDir="false" afterPath="$PROJECT_DIR$/book-room.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/coming-soon.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/coming-soon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/escape-from-ny.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/escape-from-ny.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/lost-temple.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/lost-temple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/tournament.html" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/tournament.html" afterDir="false" />
-    </list>
+    <list default="true" id="a5ebcdfb-dd88-4831-bfed-cd38c3bd08ac" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -69,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="368" column="53" lean-forward="true" selection-start-line="367" selection-start-column="60" selection-end-line="368" selection-end-column="53" />
+            <state relative-caret-position="342">
+              <caret line="151" column="42" lean-forward="true" selection-start-line="151" selection-start-column="42" selection-end-line="151" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="618">
+              <caret line="157" column="8" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -82,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/room-list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="690">
-              <caret line="476" column="8" lean-forward="true" selection-start-line="476" selection-start-column="8" selection-end-line="476" selection-end-column="8" />
+              <caret line="476" column="8" selection-start-line="476" selection-start-column="8" selection-end-line="476" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -105,20 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rooms/tournament.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+            <state relative-caret-position="388">
+              <caret line="147" column="40" selection-start-line="147" selection-start-column="40" selection-end-line="147" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -126,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rooms/coming-soon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="147" column="41" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
+            <state relative-caret-position="572">
+              <caret line="145" column="33" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -138,7 +109,6 @@
     <findStrings>
       <find>you are</find>
       <find>info@</find>
-      <find>sign in</find>
       <find>logo</find>
       <find>all onl</find>
       <find>home</find>
@@ -154,11 +124,13 @@
       <find>booking</find>
       <find>booking-form</find>
       <find>order now!</find>
+      <find>sign in</find>
+      <find>pea puz</find>
     </findStrings>
     <replaceStrings>
-      <replace />
       <replace>Copyright &amp;copy; 2020 The Rabble &amp;nbsp;|&amp;nbsp; All Rights Reserved</replace>
       <replace>Rabble Rooms</replace>
+      <replace />
       <replace>Book Now!</replace>
     </replaceStrings>
     <dirStrings>
@@ -194,11 +166,11 @@
         <option value="$PROJECT_DIR$/room-prices.html" />
         <option value="$PROJECT_DIR$/book-room.html" />
         <option value="$PROJECT_DIR$/rooms/escape-from-ny.html" />
-        <option value="$PROJECT_DIR$/rooms/tournament.html" />
         <option value="$PROJECT_DIR$/rooms/coming-soon.html" />
         <option value="$PROJECT_DIR$/pricing.html" />
         <option value="$PROJECT_DIR$/room-list.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/rooms/tournament.html" />
       </list>
     </option>
   </component>
@@ -260,12 +232,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598637819451</updated>
-      <workItem from="1598637825925" duration="6354000" />
+      <workItem from="1598637825925" duration="6607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6354000" />
+    <option name="totallyTimeSpent" value="6607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -460,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page-about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="123" column="42" selection-start-line="70" selection-start-column="12" selection-end-line="123" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features-shortcodes.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -505,17 +470,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rooms/tournament.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rooms/coming-soon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="147" column="41" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
+        <state relative-caret-position="572">
+          <caret line="145" column="33" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -529,14 +487,28 @@
     <entry file="file://$PROJECT_DIR$/room-list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
-          <caret line="476" column="8" lean-forward="true" selection-start-line="476" selection-start-column="8" selection-end-line="476" selection-end-column="8" />
+          <caret line="476" column="8" selection-start-line="476" selection-start-column="8" selection-end-line="476" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="157" column="8" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="368" column="53" lean-forward="true" selection-start-line="367" selection-start-column="60" selection-end-line="368" selection-end-column="53" />
+        <state relative-caret-position="342">
+          <caret line="151" column="42" lean-forward="true" selection-start-line="151" selection-start-column="42" selection-end-line="151" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rooms/tournament.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="147" column="40" selection-start-line="147" selection-start-column="40" selection-end-line="147" selection-end-column="40" />
         </state>
       </provider>
     </entry>
